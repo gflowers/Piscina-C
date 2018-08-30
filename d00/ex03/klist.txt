@@ -1,0 +1,6 @@
+Credentials cache: API:32697
+        Principal: fgheorgh@42.FR
+
+  Issued                Expires               Principal
+Aug 21 11:11:07 2018  Aug 21 21:11:07 2018  krbtgt/42.FR@42.FR
+Aug 21 13:09:12 2018  Aug 21 21:11:07 2018  host/vgs-fn1.42.fr@42.FR

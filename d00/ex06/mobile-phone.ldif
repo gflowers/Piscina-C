@@ -1,0 +1,4 @@
+dn:uid=fgheorgh,ou=2018_bucharest,ou=2018,ou=bucharest,ou=people,dc=42,dc=fr
+changetype: modify
+replace: mobile
+mobile: 0787446012
